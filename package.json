@@ -1,0 +1,24 @@
+{
+  "name": "odin_project_21_serves_html_form_node",
+  "version": "1.0.0",
+  "description": "odin prodject assignment",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrsuber/odin_project_21_serves_html_form_Node.git"
+  },
+  "author": "Mohamad Siysinyuy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrsuber/odin_project_21_serves_html_form_Node/issues"
+  },
+  "homepage": "https://github.com/mrsuber/odin_project_21_serves_html_form_Node#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
